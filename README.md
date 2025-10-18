@@ -103,7 +103,7 @@ cp .env.example .env
 
 ### Mainnet Deployment (LIVE)
 
-- **Contract Address**: `0xacd628306e1831c1105390d5f2eeba31e06bf8db`
+- **Contract Address**: `0x2D16943a0DB5363f0Ea583F5b4541d4a7fFaae50`
 - **Network**: Ethereum Mainnet (U2U Compatible)
 - **Block**: 40,059,499
 - **Transaction**: `0x940ba1c7661ccd465b7f171a8995f191f270c24df35cfa1a1a1c477f107eeae8`
